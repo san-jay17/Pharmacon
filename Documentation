@@ -1,0 +1,208 @@
+ TABLE OF CONTENTS
+
+CHAPTER NO                            TITLE                                            PAGE NO                                                   
+
+                                                    ABSTRACT                                                                                                                       	                                                        
+   1.                                       INTRODUCTION                                          1
+                                             1.1 Brief overview of the project                     2
+                                                   1.1.1 Purpose of the project
+                                                   1.1.2 Advantages of the project
+                                             1.2 Need of the project
+                                             1.3 Goals of the proposed system
+                                             1.4 Background for the project
+                                                                                                                              
+   2.                                       SYSTEM ANALYSIS
+                                              2.1 Existing System
+                                              2.2 Proposed System
+                                              2.3 Feasibility Study
+                                                    2.3.1 Economical feasibility
+                                                    2.3.2 Operational feasibility
+                                                    2.3.3 Technical feasibility
+
+  3.                                         SYSTEM SPECIFICATION
+                                              3.1 Project Phases
+                                                    3.1.1 Front End
+                                                    3.1.2 Back End
+                                              3.2 Requirement Analysis
+                                                     3.2.1 Hardware Requirements
+                                                     3.2.2 Software Requirements
+                                              3.3 Software Process Model
+
+ 4.                                          SOFTWARE DESCRIPTION
+                                              4.1 MySQL
+                                              4.2 Android 4.4 (KITKAT)
+ 
+
+
+
+
+
+
+
+                               ABSTRACT
+
+The proposed Pharmacy app functions to facilitate the delivery of drugs to the desired destination. 
+Features such as remainder system, GPS tracking are encompassed. 
+The most enhancing feature in this app is the “Shop Locator”.This app helps answer quick drug information questions with respect to shop location considerations. 
+The online medicine shopping features in such a way that when the customer requests for the availability of drugs along with the quantity, the list displaying the shops in sequential order (Nearest to farthest) with regard to GPS will be viewable to the customer. Another module functions in such a way that it reminds users about the daily intake of medicines along with the quantity with respect to the alarm set. Refill functionality is also available. Further enhancement includes the “Alert Messages”. It encompasses the feature of reminding the customers via alert messages with respect to previous shopping history.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+
+
+
+
+
+
+
+
+INTRODUCTION
+
+
+
+
+
+                          
+                                                   CHAPTER 1
+                                               INTRODUCTION
+1.1 BRIEF OVERVIEW OF PHARMACY APPLICATON USING ANDROID
+       Mobile application is trendy and receives high demand in market place. Our project “PHARMACON” is a user friendly app for all android mobile phones.
+1.1.1 PURPOSE:
+      The pharmacy application using android is an interface between the user and the pharmacist. It aims in providing easy access to check the availability of medicines in various branches.
+1.1.2 ADVANTAGES TO BOTH END USERS AND DEVELOPERS:
+       This pharmacy solution is intended to improve patient access and convenience in obtaining prescribed medications. Due to these positive therapeutic influences for patients and increased customer satisfaction, pharmacy advantage has embraced the digital revolution
+1.2 NEED OF THE PROJECT:
+         Now a day’s information and communication technology plays a great role in different fields or areas in health care systems. To make it even simpler, our project creates a smart phone application to locate the availability of medicines. It deals with the maintenance of drugs and consumables in the pharmacy unit. The setup of this system will ensure availability of sufficient quality of drugs for the users. This technology-based patient education bridges the gap in health literacy. It serves as a great source for primary literature for drug location information questions. Furthermore they can access the information anytime and anywhere using wireless connections.
+1.3 GOALS OF PROPOSED SYSTEMS:
+1. Planned approach towards working
+       The data will be stored properly in data stores, which will help in retrieval of information as well as its storage.
+
+2. Accuracy
+      The level of accuracy in the propose system will be higher. All tasks would be done correctly and it ensures that whatever information is coming from the user is validated.
+3. Reliability
+        The reliability of the proposed system will be high due to the above stated reasons. The reason for the increased reliability of the system is that now there would be proper storage of information and is secured.
+4. No Redundancy
+       In the proposed system utmost care would be ensured so that no information is repeated anywhere, in storage or otherwise. This would assure economic use of storage space and consistency in the data stored.
+5. Immediate retrieval of information
+      The main objective of proposed system is to provide for a quick and efficient retrieval of information. Any type of information would be available whenever the user and the checker requires.
+6. Immediate storage of information
+      In manual system there are many problems to store the largest amount of information.
+1.4 BACKGROUND
+        In the past few years there were more advancement in the field of technology. Heavy traffic, lack of parking, monsoon, shop closed, forgetfulness…these are some of the reasons that could lead to skipping of vital medications. Since taking medicines regularly is a critical component of managing chronic medical conditions, it’s best not to run out of essential medicines. As a solution to these issues an android mobile application can be made which will comprise of all the functionalities. Mobile devices like smart phones are emerging where technology is being used for data collection, location tracking via GPS etc. This app enables to log on and register. The GPS present in the app tracks the current location of the user which later helps to list the shops in the sequential order starting from the nearest location. 
+
+
+
+
+
+SYSTEM ANALYSIS
+
+
+
+
+                         
+
+
+
+
+
+
+
+                                                          CHAPTER 2
+
+                                      SYSTEM ANALYSIS
+
+2.1 EXISTING SYSTEM
+        In the already available pharmacy applications there are features to buy medicines via uploading the scanned copy of prescription. Considering pharmaceutical stores, online shopping of medicines was widely possible through websites. There may be a misconception regarding the uploaded prescription. There is no Smartphone application to check the availability of the required medicines in the nearest store. 
+
+
+DRAWBACKS
+      Heavy traffic, lack of parking, monsoon, shop closed, forgetfulness…these are some of the reasons that could lead to skipping of vital medications. 
+
+
+PROPOSED SYSTEM
+       It aims in providing easy access to check the availability of medicines in various branches. Our project creates a smart phone application to locate the availability of medicines. It deals with the maintenance and consumables of drugs using reminder system. The setup of this system will ensure alerting the user with messages for refill if needed.   
+
+
+ADVANTAGES
+                       This technology-based patient education bridges the gap in health literacy. 
+                       Home delivery of drugs if required.   
+
+                 
+
+
+
+
+
+
+
+
+
+
+
+Feasibility study
+            Feasibility is defined as the practical extent to which a project can be performed successfully. To evaluate feasibility, a feasibility study is performed, which determines whether the solution considered to accomplish the requirements is practical and workable in the software. Information such as resource availability, cost estimation for software development, benefits of the software to the organization after it is developed and cost to be incurred on its maintenance are considered during the feasibility study. The objective of the feasibility study is to establish the reasons for developing the software that is acceptable to users, adaptable to change and conformable to established standards. Various other objectives of feasibility study are listed below.
+To analyze whether the software will meet organizational requirements
+To determine whether the software can be implemented using the current technology and within the specified budget and schedule
+To determine whether the software can be integrated with other existing software.
+
+Types of Feasibility
+       Various types of feasibility that are commonly considered include,
+Technical feasibility
+Operational feasibility
+Economic feasibility.
+
+Technical feasibility 
+            Technical feasibility assesses the current resources (such as hardware and software) and technology, which are required to accomplish user requirements in the software within the allocated time and budget. For this, the software development team ascertains whether the current resources and technology can be upgraded or added in the software to accomplish specified user requirements. Technical feasibility also performs the following tasks.
+Analyzes the technical skills and capabilities of the software development team members
+Determines whether the relevant technology is stable and established
+Ascertains that the technology chosen for software development has a large number of users so that they can be consulted when problems arise or improvements are required.
+
+Operational feasibility
+            Operational feasibility assesses the extent to which the required software performs a series of steps to solve business problems and user requirements. This feasibility is dependent on human resources (software development team) and involves visualizing whether the software will operate after it is developed and be operative once it is installed. Operational feasibility also performs the following tasks.
+Determines whether the problems anticipated in user requirements are of high priority
+Determines whether the solution suggested by the software development team is acceptable
+Analyzes whether users will adapt to a new software
+Determines whether the organization is satisfied by the alternative solutions proposed by the software development team.
+
+Economic feasibility 
+         Economic feasibility determines whether the required software is capable of generating financial gains for an organization. It involves the cost incurred on the software development team, estimated cost of hardware and software, cost of performing feasibility study, and so on. For this, it is essential to consider expenses made on purchases (such as hardware purchase) and activities required to carry out software development. In addition, it is necessary to consider the benefits that can be achieved by developing the software. Software is said to be economically feasible if it focuses on the issues listed below.
+Cost incurred on software development to produce long-term gains for an organization
+Cost required to conduct full software investigation (such as requirements elicitation and requirements analysis)
+Cost of hardware, software, development team, and training.
+
+FRONT-END AND BACK-END SELECTION
+         An important issue for the development of a project is the selection of suitable front-end and back-end. When we decided to develop the project we went through an extensive study to determine the most suitable platform that suits the needs of the project as well as its development. The aspects of our study included the following factors
+REQUIREMENTS FOR FRONT-END SELECTION
+          According to the above stated features we selected Eclipse-Android as the front-end for developing our project.
+1. It must have a graphical user interface that assists employees that are not from IT background.
+2. Scalability and extensibility.
+3. Flexibility.
+4. Robustness.
+5. According to the organisation requirement and culture.
+6. Platform independent.
+7. Easy to debug and maintain.
+8. Event driven programming facility.
+9. Front-end must support some popular back-end like MySQL.
+REQUIREMENTS FOR BACK-END SELECTION
+     According to above stated features we selected MySQL and SQLite as the back-end.
+1. Multiple user support.
+2. Efficient data handling.
+3. Provide inherent features for security.
+4. Efficient data retrieval and maintenance.
+5. Stored procedures.
+6. Popularity.
+7. Operating System compatible.
+8. Easy to install.
+9. Various drivers must be available.
+10. Easy to implant with front-end.
